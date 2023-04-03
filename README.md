@@ -1,2 +1,2 @@
 # nBase
-Base for Nano sripts.
+Base for Nano scripts.
